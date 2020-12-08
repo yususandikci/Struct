@@ -1,0 +1,2 @@
+# Struct
+ Struct Ödevi
